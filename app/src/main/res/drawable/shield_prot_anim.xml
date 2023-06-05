@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/shield_prot_anim1" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim2" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim3" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim4" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim5" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim6" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim7" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim8" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim9" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim10" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim11" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim12" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim13" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim14" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim15" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim16" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim17" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim18" android:duration="50" />
+    <item android:drawable="@drawable/shield_prot_anim19" android:duration="100" />
+    <item android:drawable="@drawable/shield_prot_anim20" android:duration="100" />
+    <item android:drawable="@drawable/shield_prot_anim21" android:duration="100" />
+    <item android:drawable="@drawable/shield_prot_anim22" android:duration="100" />
+    <item android:drawable="@drawable/shield_prot_anim23" android:duration="100" />
+    <item android:drawable="@drawable/shield_prot_anim24" android:duration="100" />
+    <item android:drawable="@drawable/shield_prot_anim25" android:duration="100" />
+    <item android:drawable="@drawable/shield_prot_anim26" android:duration="100" />
+</animation-list>

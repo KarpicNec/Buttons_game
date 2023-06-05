@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/azulie_atack1" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack2" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack3" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack4" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack5" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack6" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack7" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack8" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack9" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack10" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack11" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack12" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack13" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack14" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack15" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack16" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack17" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack18" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack19" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack20" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack21" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack22" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack23" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack24" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack25" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack26" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack27" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack28" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack29" android:duration="150" />
+    <item android:drawable="@drawable/azulie_atack30" android:duration="150" />
+</animation-list>

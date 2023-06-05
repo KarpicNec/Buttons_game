@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/castle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/castle_boss"
+    android:orientation="vertical"
+    android:padding="8dp">
+    <ProgressBar
+        android:id="@+id/BossHpBar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:progress="100"
+        android:progressDrawable="@drawable/boss_hp_vid" />
+    <ImageView
+        android:id="@+id/boss"
+        android:layout_width="240dp"
+        android:layout_height="400dp"
+        android:layout_gravity="center" />
+
+    <ImageButton
+        android:id="@+id/mainb"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="197dp"
+        android:layout_height="193dp"
+        android:layout_gravity="center|bottom"
+        android:contentDescription="third war button"
+        android:transitionName="main"
+        android:translationY="20dp" />
+    <ProgressBar
+        android:id="@+id/MyHpBar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:progress="100"
+        android:translationY="30dp"
+        android:progressDrawable="@drawable/hpbaronboss" />
+
+    <ImageView
+        android:id="@+id/phon"
+        android:layout_width="184dp"
+        android:layout_height="197dp"
+        android:layout_gravity="center"
+        android:translationX="10dp"
+        android:translationY="-430dp" />
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="231dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center|bottom"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:translationY="-300dp" />
+</LinearLayout>
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/boss_sword_atack_anim1" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim2" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim3" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim4" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim5" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim6" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim7" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim8" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim9" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim10" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim11" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim12" android:duration="100" />
+    <item android:drawable="@drawable/boss_sword_atack_anim13" android:duration="100" />
+</animation-list>

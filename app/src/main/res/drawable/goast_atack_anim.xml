@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/goast_atack1" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack2" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack3" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack4" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack5" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack6" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack7" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack8" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack9" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack10" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack11" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack12" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack13" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack14" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack15" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack16" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack17" android:duration="180" />
+    <item android:drawable="@drawable/goast_atack18" android:duration="180" />
+</animation-list>

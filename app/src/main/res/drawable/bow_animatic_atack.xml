@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/boss_sword_atack_anim1" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim1" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim2" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim3" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim4" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim5" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim6" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim7" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim8" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim9" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim10" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim11" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim12" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim13" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim14" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim15" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim16" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim17" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim18" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim19" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim20" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim21" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim22" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim23" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim24" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim25" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim26" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim27" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim28" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim29" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim30" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim31" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim32" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim33" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim34" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim35" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim36" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim37" android:duration="70" />
+    <item android:drawable="@drawable/bow_anim38" android:duration="50" />
+    <item android:drawable="@drawable/bow_anim39" android:duration="40" />
+    <item android:drawable="@drawable/bow_anim40" android:duration="40" />
+</animation-list>

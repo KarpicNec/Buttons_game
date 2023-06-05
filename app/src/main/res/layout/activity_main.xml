@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/all"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/outcare_day"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp" >
+
+    <ProgressBar
+        android:id="@+id/HpBar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:progress="100"
+        android:progressDrawable="@drawable/hpbarvid" />
+
+    <ImageButton
+        android:id="@+id/buttRun"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:layout_gravity="bottom|left"
+        android:contentDescription="a run button"
+        android:transitionName="run"
+        android:translationY="280dp" />
+
+    <ImageButton
+        android:id="@+id/buttMedic"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:layout_gravity="bottom|right"
+        android:contentDescription="a medizin button"
+        android:transitionName="med"
+        android:translationY="185dp" />
+
+    <ImageButton
+        android:id="@+id/buttMagic"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:layout_gravity="bottom|left"
+        android:contentDescription="a magic button"
+        android:transitionName="magic"
+        android:translationY="205dp" />
+
+    <ImageButton
+        android:id="@+id/buttBow"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:layout_gravity="bottom|right"
+        android:contentDescription="a bow button"
+        android:transitionName="bow"
+        android:translationY="110dp" />
+
+    <ImageButton
+        android:id="@+id/buttShield"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:layout_gravity="bottom|left"
+        android:contentDescription="a shield button"
+        android:paddingBottom="16dp"
+        android:transitionName="shield"
+        android:translationY="135dp" />
+
+    <ImageButton
+        android:id="@+id/buttSword"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:layout_gravity="bottom|right"
+        android:contentDescription="a sword button"
+        android:paddingBottom="16dp"
+        android:transitionName="sword"
+        android:translationY="40dp" />
+
+    <ProgressBar
+        android:id="@+id/MyHpBar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:layout_gravity="bottom"
+        android:progress="100"
+        android:progressDrawable="@drawable/myhpbar"
+        android:translationY="60dp" />
+
+    <ImageView
+        android:id="@+id/enemy"
+        android:layout_width="274dp"
+        android:layout_height="267dp"
+        android:layout_gravity="bottom|center"
+        android:translationY="-580dp" />
+
+    <TextView
+        android:id="@+id/text_hp"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="top|center"
+        android:text="100 / 100"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:translationY="-892dp" />
+
+    <ImageView
+        android:id="@+id/enem_eff"
+        android:layout_width="259dp"
+        android:layout_height="267dp"
+        android:layout_gravity="bottom|center"
+        android:translationY="-890dp" />
+
+    <ImageView
+        android:id="@+id/centanim"
+        android:layout_width="242dp"
+        android:layout_height="223dp"
+        android:layout_gravity="bottom|center"
+        android:translationY="-870dp" />
+
+
+</LinearLayout>
+
+

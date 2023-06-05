@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/stone_boss1" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss2" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss3" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss4" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss5" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss6" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss7" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss8" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss9" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss10" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss11" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss12" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss13" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss14" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss15" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss16" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss17" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss18" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss19" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss20" android:duration="350" />
+    <item android:drawable="@drawable/stone_boss21" android:duration="350" />
+</animation-list>
